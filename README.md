@@ -1,7 +1,7 @@
 
 # Desafio HTML DIO
 
-Desafio DIO HTML básico 1
+Desafio DIO HTML básico 3
 
 
 
@@ -9,17 +9,16 @@ Desafio DIO HTML básico 1
 
 
 ## Funcionalidades
-O objetivo é mostrar quais as principais tags HTML
-- Tags de estrutura HTML
-- Tags de titulo e sub-titulo
-- Tags para formatar textos
-- Tags para links e imagens
+O objetivo é criar uma página HTML um pouco mais completo com uma proposta similar a Wikipedia
+- Estruturação e formatação de texto
+- Tags mais semanticas
+
 
 
 
 ## Melhorias
 
-Essas são algumas de dezenas de tags que não foram listadas.
+Não fiz responsividade pois não era o escopo.
 
 
 ## 🛠 Habilidades
